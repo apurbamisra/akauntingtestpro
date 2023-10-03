@@ -1,0 +1,15 @@
+
+
+ This is demo test code for create API and connect with Akauntig software. 
+ 
+ Here we will connect two project with API function through CURL function.
+
+ 
+ I have created API where data records will come from customer and product order related tables. There are two database for one akaunting and other for main project. 
+
+ I have created only api under controller folder and model also connected records. This files need to run with any framework based project like Laravel, CodeIgninter or Opencart.
+
+
+ Please feel free to ask me any query.
+
+Thanks
